@@ -79,9 +79,9 @@ You can also tweak the weights to see what different weights produce. Changing t
 
 Running these two cells will first configure the Monte Carlo simulation to forcast 30 years cumulative returns, show the first 5 rows of the dataframe, then run the Monte Carlo simulation. 
 
-![Example]()
+![Example](https://github.com/talibkateeb/Financial-Planner/blob/main/Example.png)
 
 ---
 ## License
 
-[Click here to view]()
+[Click here to view](https://github.com/talibkateeb/Financial-Planner/blob/main/LICENSE)
